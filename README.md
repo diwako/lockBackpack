@@ -2,6 +2,11 @@
 ## General
 Adds the ability to players to lock their backpacks. CBA is required and this script has support for ACE interaction menu and ACE medical.
 
+## Features
+Locks carried backpack for anyone that is not the carrier.\
+Backpack lock is removed once the backpack is dropped.\
+(ACE medical only) Others can open the backpack if the carrier is knocked out.
+
 ## Requirements
 The only additional requirement is CBA for this script to work properly.
 
