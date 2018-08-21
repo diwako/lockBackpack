@@ -1,0 +1,1 @@
+dude setVariable ["diwako_lockbackpack_locked",true];

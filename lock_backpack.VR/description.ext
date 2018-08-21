@@ -1,0 +1,16 @@
+author="diwako";
+
+respawn = BASE;
+respawnDelay = 2;
+respawnDialog = 0;
+
+class CfgFunctions {
+  createShortcuts = 1;
+  #include "scripts\diwako\lockbackpack\funcs.hpp"
+};
+
+#include "scripts\diwako\lockbackpack\Extended_InventoryOpened_EventHandlers.hpp"
+
+// Debug (and CBA target debug)
+enableDebugConsole = 1;
+enableTargetDebug = 1;
